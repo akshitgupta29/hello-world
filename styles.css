@@ -16,6 +16,10 @@ header, section {
 
 }
 
+#skills {
+    word-spacing: .30em;
+}
+
 .picture img {
     max-width: 200px;
     max-height: 200px;
@@ -60,7 +64,17 @@ table
 {
     text-align: center;
     /*border: 1px solid black;*/
+    border-collapse: collapse;
+    
 
+}
+table, th, td {
+    border: 2px  solid grey;
+    padding: 8px;
+}
+
+table th {
+    background-color: #4CAF50;
 }
 .nav_menu {
     list-style-type: none;
