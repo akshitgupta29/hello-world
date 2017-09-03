@@ -114,6 +114,10 @@ table th {
     text-align: right;
     padding-right: 150px;
 }
+.langtable  {
+    align-self: center;
+    margin-left: 28%;
+}
 
 footer {
     text-align: right;
