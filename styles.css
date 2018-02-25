@@ -1,6 +1,6 @@
 body {
     /*background-color: #ff6543*/
-    background-color: #dd8888;
+    background-color: whitesmoke;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -9,7 +9,7 @@ header, section {
     
 }
 .container {
-    background-color: whitesmoke;
+    background-color:rgb(179, 225, 240);
     margin: 100px;
     margin-top: 50px;
     margin-bottom: 30px;
