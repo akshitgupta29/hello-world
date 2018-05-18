@@ -2,30 +2,36 @@ body {
     /*background-color: #ff6543*/
     background-color: whitesmoke;
     font-family: 'Roboto', sans-serif;
+    margin: 60px;
 }
 
-header, section {
+/* header, section {
     margin: 10px;
     
-}
-.container {
-    background-color: white;
+
+} 
+ .container {
+    background-color:rgb(179, 225, 240); 
+
     margin: 100px;
     margin-top: 50px;
     margin-bottom: 30px;
 
-}
+} */
 
 #skills {
     word-spacing: .30em;
 }
 
+.margin_col {
+    margin: 20px;
+}
 .picture img {
-    max-width: 200px;
-    max-height: 200px;
-    float: left;
+    max-width: 250px;
+    max-height: 400px;
+    /* float: left; */
     border: 1px dashed blueviolet; 
-    margin-right: 10px;   
+    /* margin-right: 10px;    */
 }
 
 
@@ -33,7 +39,7 @@ header, section {
     padding: 5px;
     margin-left: 5px;
     width: 50%;
-    float:  left;
+    /* float:  left; */
 }
 
 .connect {
@@ -116,7 +122,7 @@ table th {
 }
 .langtable  {
     align-self: center;
-    margin-left: 28%;
+    /*margin-left: 28%;*/
 }
 
 footer {
